@@ -10,11 +10,9 @@ public class Myconrtoller {
     public String hello(){
 
         //System.out.println("hello");
-        System.out.println("fuck you");
+        System.out.println("fuck you,这是我的第一个分支");
+        //fenzhi
         return "hello";
     }
-
-
-
 
 }
