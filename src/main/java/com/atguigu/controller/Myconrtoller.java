@@ -10,6 +10,7 @@ public class Myconrtoller {
     public String hello(){
 
         //System.out.println("hello");
+        System.out.println("fuck you");
         return "hello";
     }
 
